@@ -1,4 +1,4 @@
-![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI4amF1a2ZnM3F6OTJnMHR3OGtsZDFtNzFxcHZrMWN0eTM0aWRwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1vohJMVMtjSQxmUot/giphy.webp)
+![logo](https://github.com/vaishnavik-09/vaishnavik-09/blob/main/github-header-image%20(1).png)
 
 
 
